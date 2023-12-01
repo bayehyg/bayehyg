@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Yonatan Bayeh. I am a sophomore at Pacific Lutheran University studying Computer science.
 
-- 
 - 🌱 I’m currently learning Flutter and will finish one project with Flutter in the winter.
 - 📫 How to reach me: (206)-679-2614, bayehyonatan@gmail.com
 

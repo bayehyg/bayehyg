@@ -1,6 +1,6 @@
 # Hi there, I'm Yonatan Bayeh! 👋
 
-<p><em>Computer Science Student | Back-end Developer</em></p>         <a href="https://yonatanbayeh.netlify.app/">Portfolio</a>
+<p><em>Computer Science Student </em></p>         <a href="https://yonatanbayeh.netlify.app/">Portfolio</a>
 
 ### About Me
 

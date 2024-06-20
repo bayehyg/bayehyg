@@ -4,7 +4,7 @@
 
 ### About Me
 
-I'm currently pursuing a Bachelor of Science in Computer Science at Pacific Lutheran University, Tacoma, WA, with a GPA of 3.93/4.0. I have a passion for solving problems and figuring out how complex things work.
+I'm pursuing a Bachelor of Science in Computer Science at Pacific Lutheran University, Tacoma, WA, with a GPA of 3.84/4.0. I am a passionate, hands-on student with fast learning skills. Take a look at my recent projects to see what I've been upto. 
 
 ### 💼 Notable Experience
 
@@ -14,6 +14,8 @@ I'm currently pursuing a Bachelor of Science in Computer Science at Pacific Luth
 - Utilized Firebase Realtime Database to manage user account information and incorporated Stripe data.
 
 ### 💻 Notable Projects
+
+#### [CodeBand - chat app](https://bayehyg.github.io/CodeBand/)
 
 #### [Ride Along - Carpool app](https://rideealong.co/)
 
@@ -26,12 +28,11 @@ I'm currently pursuing a Bachelor of Science in Computer Science at Pacific Luth
 - **Languages:** Java, Python, JavaScript
 - **Frameworks:** Spring, Flask, Node.js
 - **Databases:** PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Gradle
+- **Tools:** Git, Docker
 - **Cloud services:** AWS, Firebase
 
 📫 **Contact Me**
 - Email: bayehyonatan@gmail.com
-- Phone: (206) 679-2614
 - [LinkedIn](https://www.linkedin.com/in/yonatan-bayeh/)
 
 ---
